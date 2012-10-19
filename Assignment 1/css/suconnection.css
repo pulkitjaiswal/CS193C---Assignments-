@@ -1,0 +1,74 @@
+*{
+	font-family: sans-serif;
+}
+
+#leftcontainer{
+	width:750px;
+	float:left;
+}
+#titlebar{
+	float: left;
+	width: 630px;
+	margin-right: 0px;
+	margin-top: 0px;
+	height:120px;
+	color:white;
+	font-size: 27px;
+	text-align: left;
+	background-color: #9A0000;
+}
+
+#dp{
+	margin-bottom: 10px;
+}
+#profile
+{
+	margin:10px;
+	width:200px;
+	float: left;
+	clear: left;
+}
+
+.infolabel
+{
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	background-color: #CC9191;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	font-family: arial;
+}
+
+.label{
+	font-weight: bold;
+}
+
+.friend{
+	display: block;
+	font-weight: bold;
+
+}
+
+#feed
+{
+	float:left;
+	width:500px;
+	margin-top: 20px;
+}
+
+#creaturename{
+	font-weight: bold;
+	font-size: 26px;
+}
+
+.update{
+	border-top: 1px solid black;
+	padding-top: 10px;
+}
+
+#post{
+	width: 260px;
+	float: left;
+	
+}
