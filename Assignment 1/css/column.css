@@ -1,0 +1,39 @@
+
+
+#topleft{
+	float: left;
+	width: 400px;
+	margin-right: 20px;
+}
+#topright{
+	float: left;
+	width: 400px;
+}
+#top{
+	clear: both;
+	margin: 20px;
+}
+
+#bottom{
+	margin: 20px;
+	font-family: sans-serif;
+	clear: both;
+}
+
+#bottomone{
+	width: 200px;
+	float: left;
+}
+#bottomtwo{
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+#bottomthree{
+	width: 200px;
+	float: left;
+}
+#bottomfour{
+	width: 200px;
+	float: left;
+}

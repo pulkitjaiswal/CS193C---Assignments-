@@ -1,0 +1,86 @@
+
+@font-face
+{
+	font-family: myfont;
+	src: url('../fonts/cloister.ttf');
+}
+
+body{
+	background-image:url('../images/oldpage.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#all
+{
+	font-family: sans-serif;
+	width:800px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 70px;
+	background-image:none;
+	
+}
+
+
+#topbanner{
+	width:800px;
+}
+#titlebar{
+	float: left;
+	width: 500px;
+	margin-right: 0px;
+	margin-top: 0px;
+	height:120px;
+	color:white;
+	font-size: 23px;
+	text-align: center;
+	background-color: #930700;
+}
+
+#main{
+	font-family: myfont;
+	
+}
+#seal{
+	float: left;
+	height: 120px;
+	width: 120px;
+}
+
+.entryheading{
+	font-size: 25px;
+}
+.entrytitle{
+	position: relative;
+	float: left;
+	bottom: 10px;
+}
+.entrydate{
+	position: absolute;
+	width:180px;
+	height: 150px;
+	float: left;
+	right:150px;
+	text-align: center;
+	background-image: url('../images/ribbon.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color:#930700;
+}
+.entrycontents{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	clear:both;
+}
+
+.entryfooter{
+	font-family: sans-serif;
+	margin-top: 10px;
+}
+
+#memchu
+{
+	margin-top: 20px;
+}
